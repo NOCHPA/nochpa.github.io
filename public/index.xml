@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>北欧华人诗社</title>
+    <link>https://edxu96.github.io/NOCHPA/</link>
+    <description>Recent content on 北欧华人诗社</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>Copyright © 2008–2020, 北欧华人诗社; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://edxu96.github.io/NOCHPA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>https://edxu96.github.io/NOCHPA/post/image-gallery/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/image-gallery/</guid>
+      <description>&lt;p&gt;Showcase the image gallery feature using the &lt;code&gt;Figure&lt;/code&gt; shortcode. Images using the &lt;code&gt;Figure&lt;/code&gt; shortcode will be rendered through &lt;a href=&#34;https://ashleydw.github.io/lightbox/&#34;&gt;&lt;code&gt;ekko-lightbox&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://edxu96.github.io/NOCHPA/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://edxu96.github.io/NOCHPA/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://edxu96.github.io/NOCHPA/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://edxu96.github.io/NOCHPA/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://edxu96.github.io/NOCHPA/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://edxu96.github.io/NOCHPA/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>会员风采</title>
+      <link>https://edxu96.github.io/NOCHPA/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>活动介绍</title>
+      <link>https://edxu96.github.io/NOCHPA/%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D/</guid>
+      <description>诗情北欧 [挪威] 东方卫京
+曾几何时
+北欧仅仅是遥远的几个符号
+卖火柴的小女孩
+丑小鸭的不屈不挠
+温暖多彩的木屋
+高大威猛的北欧海盗
+多年前的一场秋风
+把一颗华夏种子吹来落草
+带着悠远文明的基因
+接受着淳朴民风的熏陶
+诗情的小溪潺潺
+不经意间汇成了瀑布落潮
+布兵排阵的方块汉字
+开始伴随北极光的摇曳飘渺
+隐约中雄壮浑厚的唐诗
+似乎在峡湾清风中飘逸逍遥
+朦胧处婉约韵动的宋词
+好像给林谷阵雨调节着音调
+我在陡峭峡湾中梦游青藏高原
+在寂静森林中寻找桃源的逍遥
+我幻想着圣诞老人与庄周的聚会
+对比秦皇汉武和北欧海盗的骄傲
+我在简约寂静中沉思先哲智慧
+在文化的缝隙中品味奇妙
+测试
+baidu.com
+gallary
+创刊号</description>
+    </item>
+    
+    <item>
+      <title>创刊号</title>
+      <link>https://edxu96.github.io/NOCHPA/post/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edxu96.github.io/NOCHPA/post/my-first-post/</guid>
+      <description>baidu.com
+诗情北欧 [挪威] 东方卫京
+曾几何时
+北欧仅仅是遥远的几个符号
+卖火柴的小女孩
+丑小鸭的不屈不挠
+温暖多彩的木屋
+高大威猛的北欧海盗
+多年前的一场秋风
+把一颗华夏种子吹来落草
+带着悠远文明的基因
+接受着淳朴民风的熏陶
+诗情的小溪潺潺
+不经意间汇成了瀑布落潮
+布兵排阵的方块汉字
+开始伴随北极光的摇曳飘渺
+隐约中雄壮浑厚的唐诗
+似乎在峡湾清风中飘逸逍遥
+朦胧处婉约韵动的宋词
+好像给林谷阵雨调节着音调
+我在陡峭峡湾中梦游青藏高原
+在寂静森林中寻找桃源的逍遥
+我幻想着圣诞老人与庄周的聚会
+对比秦皇汉武和北欧海盗的骄傲
+我在简约寂静中沉思先哲智慧
+在文化的缝隙中品味奇妙
+生活在别处 [丹麦] 元玖
+在一个陌生的城市醒来
+像幽暗中一朵奇妙的花开
+凝聚着光影和尘烟
+轻轻抖落清晨的哈欠
+红色的屋舍静默
+一行大雁悠悠略过
+而你
+日子里漂浮着蓝色的琥珀
+悬于
+虚幻和现实之中
+悬于
+未知和已知之间
+读书万卷或行路万里
+更多认识的 还是自己
+现实是把落满灰尘的座椅
+挽起袖 拂去浅薄的憧憬
+树起生活中唯一的英雄主义</description>
+    </item>
+    
+  </channel>
+</rss>
