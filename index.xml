@@ -6,19 +6,20 @@
     <description>Recent content on 北欧华人诗社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright © 2008–2020, 北欧华人诗社; all rights reserved.</copyright>
+    <copyright>Copyright © 2019–2020, 北欧华人诗社; all rights reserved.</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nochpa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Image Gallery</title>
-      <link>https://nochpa.github.io/post/image-gallery/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <title>《北欧诗刊》第三期特刊: “北极诗风”大赛现代诗获奖作品</title>
+      <link>https://nochpa.github.io/post/%E7%AC%AC%E4%B8%89%E6%9C%9F/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nochpa.github.io/post/image-gallery/</guid>
-      <description>&lt;p&gt;Showcase the image gallery feature using the &lt;code&gt;Figure&lt;/code&gt; shortcode. Images using the &lt;code&gt;Figure&lt;/code&gt; shortcode will be rendered through &lt;a href=&#34;https://ashleydw.github.io/lightbox/&#34;&gt;&lt;code&gt;ekko-lightbox&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://nochpa.github.io/post/%E7%AC%AC%E4%B8%89%E6%9C%9F/</guid>
+      <description>&lt;h2 id=&#34;编者按&#34;&gt;编者按&lt;/h2&gt;
+&lt;p&gt;由北欧华人诗社主办的第一届「北极诗风」诗词大赛，收到来自北欧各国和曾旅居北欧国家的华语诗人的积极投稿。我们邀请了来自世界多个国家的知名诗人作家为诗赛评奖，并为优秀诗歌做了精彩的评析。每一句诗，每一个字，都凝结着同为华夏血脉的感动，我们在这一片土地，因诗词结缘，因文化链接。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -28,43 +29,6 @@
       
       <guid>https://nochpa.github.io/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://nochpa.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://nochpa.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://nochpa.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://nochpa.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -95,35 +59,13 @@ Hugo makes use of a variety of open source projects including:
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nochpa.github.io/%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D/</guid>
-      <description>诗情北欧 [挪威] 东方卫京
-曾几何时
-北欧仅仅是遥远的几个符号
-卖火柴的小女孩
-丑小鸭的不屈不挠
-温暖多彩的木屋
-高大威猛的北欧海盗
-多年前的一场秋风
-把一颗华夏种子吹来落草
-带着悠远文明的基因
-接受着淳朴民风的熏陶
-诗情的小溪潺潺
-不经意间汇成了瀑布落潮
-布兵排阵的方块汉字
-开始伴随北极光的摇曳飘渺
-隐约中雄壮浑厚的唐诗
-似乎在峡湾清风中飘逸逍遥
-朦胧处婉约韵动的宋词
-好像给林谷阵雨调节着音调
-我在陡峭峡湾中梦游青藏高原
-在寂静森林中寻找桃源的逍遥
-我幻想着圣诞老人与庄周的聚会
-对比秦皇汉武和北欧海盗的骄傲
-我在简约寂静中沉思先哲智慧
-在文化的缝隙中品味奇妙
-测试
-baidu.com
-gallary
-创刊号</description>
+      <description>第一届「北极诗风」诗词大赛（已结束） 我们特此举办第一届「北极诗风」诗词大赛，面向北欧华人华侨全面征稿，诗人、诗歌爱好者均可参加。本次大赛征稿不限主题，诚邀诗人用手中的笔书写诗意，让我们在这片土地，用诗歌与世界对话。 愿你我微弱诗之光芒，点燃心中星星之火，笔墨燎原！
+一、主办单位 北欧华人诗社
+二、征稿时间 2020年5月1日 — 2020年5月31日
+三、征稿内容 主题不限，古体诗与现代诗均可，每人限投两篇，每篇不超过30行。
+我们将会在专业评委老师的审核下评选出古体诗和现代诗两个赛制的名次。其中，一等奖各一名，二等奖各两名，三等奖各三名。优秀作品若干。
+四、奖励政策  专家评委将会针对优秀诗词进行评选，并撰写推荐评语； 评选出的优秀诗词，将有机会获得有声朗读发表机会； 评选出的优秀诗词，《北欧诗刊》将辟专栏选发入刊； 优先邀请参与线下诗词主题交流分享会；  五、参赛作品请寄 文字稿件请发送至：beioushishe@gmail.com
+如果您有任何问题，也欢迎发送邮件到以上邮箱，我们将尽快回复您！</description>
     </item>
     
   </channel>

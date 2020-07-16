@@ -6,37 +6,28 @@
     <description>Recent content in Authors on 北欧华人诗社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright © 2008–2020, 北欧华人诗社; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2019–2020, 北欧华人诗社; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nochpa.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>https://nochpa.github.io/authors/yuan-jiu/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nochpa.github.io/authors/yuan-jiu/</guid>
+      <description>本名李玉珠，北欧华人诗社副社长。在挪威取得海洋工程博士学位，现居丹麦哥本哈根，在丹麦科技大学工作从事流体力学方面研究和教学。</description>
+    </item>
+    
+    <item>
+      <title>Hugo Authors</title>
       <link>https://nochpa.github.io/authors/hugo-authors/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nochpa.github.io/authors/hugo-authors/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu. Etiam fermentum, sem in interdum scelerisque, massa risus rhoncus turpis, quis efficitur nibh dolor vel dolor.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nochpa.github.io/authors/jane-smith/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/authors/jane-smith/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu. Etiam fermentum, sem in interdum scelerisque, massa risus rhoncus turpis, quis efficitur nibh dolor vel dolor.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nochpa.github.io/authors/john-doe/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/authors/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio justo, interdum eu ex sit amet, rhoncus interdum magna. Nullam at magna tempor, suscipit ipsum ac, egestas tellus. Maecenas non orci ut velit consectetur feugiat. Proin dignissim ullamcorper eros, at commodo orci eleifend at. Donec luctus diam et interdum finibus. Nullam vel elit hendrerit, aliquet massa eget, vestibulum arcu. Etiam fermentum, sem in interdum scelerisque, massa risus rhoncus turpis, quis efficitur nibh dolor vel dolor.</description>
+      <description></description>
     </item>
     
   </channel>
