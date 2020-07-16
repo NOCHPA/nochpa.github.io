@@ -6,11 +6,20 @@
     <description>Recent content on 北欧华人诗社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright © 2019–2020, 北欧华人诗社; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2019–2020, 北欧华人诗社 版权所有.</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nochpa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>会员风采</title>
+      <link>https://nochpa.github.io/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nochpa.github.io/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</guid>
+      <description>元玖，本名李玉珠，北欧华人诗社副社长。在挪威取得海洋工程博士学位，现居丹麦哥本哈根，在丹麦科技大学工作从事流体力学方面研究和教学。</description>
+    </item>
     
     <item>
       <title>《北欧诗刊》第三期特刊: “北极诗风”大赛现代诗获奖作品</title>
@@ -23,31 +32,11 @@
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://nochpa.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://nochpa.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://nochpa.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>会员风采</title>
-      <link>https://nochpa.github.io/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://nochpa.github.io/%E4%BC%9A%E5%91%98%E9%A3%8E%E9%87%87/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
